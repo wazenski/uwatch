@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,BeIN Movies 4HD
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1476.ts
+
